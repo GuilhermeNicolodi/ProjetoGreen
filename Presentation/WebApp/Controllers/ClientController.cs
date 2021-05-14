@@ -7,7 +7,7 @@ using WebApp.Models.Client;
 using WebApp.Services;
 
 namespace WebApp.Controllers
-{
+{ 
     public class ClientController : Controller
     {
         private readonly ILogger<ClientController> _logger;
